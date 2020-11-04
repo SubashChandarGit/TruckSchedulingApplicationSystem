@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Truck" />
+        <module name="Consumer" />
+        <module name="Vendor" />
+        <module name="Appointment-Consumer" />
+        <module name="Distribution-Center" />
+        <module name="Eureka-Server" />
+        <module name="Appointment-Scheduling" />
+        <module name="Producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Appointment-Consumer" target="11" />
+      <module name="Appointment-Scheduling" target="11" />
+      <module name="Consumer" target="1.8" />
+      <module name="Distribution-Center" target="11" />
+      <module name="Eureka-Server" target="11" />
+      <module name="Postal-Order" target="11" />
+      <module name="Producer" target="1.8" />
+      <module name="Truck" target="11" />
+      <module name="Vendor" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Appointment-Consumer" options="-parameters" />
+      <module name="Appointment-Scheduling" options="-parameters" />
+      <module name="Consumer" options="-parameters" />
+      <module name="Distribution-Center" options="-parameters" />
+      <module name="Eureka-Server" options="-parameters" />
+      <module name="Postal-Order" options="-parameters" />
+      <module name="Producer" options="-parameters" />
+      <module name="Truck" options="-parameters" />
+      <module name="Vendor" options="-parameters" />
+    </option>
+  </component>
+</project>

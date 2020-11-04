@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Appointment/Appointment-Consumer/Appointment-Consumer.iml" filepath="$PROJECT_DIR$/Appointment/Appointment-Consumer/Appointment-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Appointment/Appointment-Scheduling/Appointment-Scheduling.iml" filepath="$PROJECT_DIR$/Appointment/Appointment-Scheduling/Appointment-Scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Postal Order/Consumer/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Postal Order/Consumer/Consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Distribution-Center/Distribution-Center.iml" filepath="$PROJECT_DIR$/Distribution-Center/Distribution-Center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Postal Order/Producer/Producer/Producer.iml" filepath="$PROJECT_DIR$/Postal Order/Producer/Producer/Producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Truck/Truck.iml" filepath="$PROJECT_DIR$/Truck/Truck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Truck Scheduling Application System.iml" filepath="$PROJECT_DIR$/.idea/Truck Scheduling Application System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vendor/Vendor.iml" filepath="$PROJECT_DIR$/Vendor/Vendor.iml" />
+    </modules>
+  </component>
+</project>

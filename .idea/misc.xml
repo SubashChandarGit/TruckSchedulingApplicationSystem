@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Distribution-Center/pom.xml" />
+        <option value="$PROJECT_DIR$/Truck/pom.xml" />
+        <option value="$PROJECT_DIR$/Vendor/pom.xml" />
+        <option value="$PROJECT_DIR$/Appointment-Scheduling/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/POInfo-Kafka/Consumer/Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/POInfo-Kafka/Producer (1)/Producer/pom.xml" />
+        <option value="$PROJECT_DIR$/Postal Order/Consumer/Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Postal Order/Producer/Producer/pom.xml" />
+        <option value="$PROJECT_DIR$/Appointment-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Appointment/Appointment-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Appointment/Appointment-Scheduling/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
